@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/digtalResume/static/css/main.3b319ee1.css",
+    "main.js": "/digtalResume/static/js/main.4c7b23c9.js",
+    "static/media/memeGenerator.png": "/digtalResume/static/media/memeGenerator.f76d5c8dfd582831cf52.png",
+    "static/media/library.png": "/digtalResume/static/media/library.94afecfa7e1560442369.png",
+    "static/media/home-main.svg": "/digtalResume/static/media/home-main.9d0a905b79d0fe08f079fc4947ab8671.svg",
+    "static/media/logo.png": "/digtalResume/static/media/logo.dcbeb1826ab26a7492f4.png",
+    "static/media/gayatriLogo.jpg": "/digtalResume/static/media/gayatriLogo.b907f29098fc3ae45a75.jpg",
+    "static/media/hairDetection.png": "/digtalResume/static/media/hairDetection.b388ddfe0d427b124cdc.png",
+    "static/media/AdityaLogo.jpg": "/digtalResume/static/media/AdityaLogo.718d4b5aa1d9d84a8b39.jpg",
+    "static/media/resume.pdf": "/digtalResume/static/media/resume.d64a54925723be102c97.pdf",
+    "static/media/Phenom_logo.png": "/digtalResume/static/media/Phenom_logo.81b01119bb4a6c26b665.png",
+    "static/media/whatsapp.png": "/digtalResume/static/media/whatsapp.23f7e0f062bf432d568a.png",
+    "static/media/DSA.svg": "/digtalResume/static/media/DSA.d4bcd48edcbc59ae43b51e51551ef2ab.svg",
+    "static/media/SpringBoot.svg": "/digtalResume/static/media/SpringBoot.b550c514c09002e524e3176b769ec20d.svg",
+    "static/media/SasiLogo.png": "/digtalResume/static/media/SasiLogo.a7a94d873b482975472e.png",
+    "static/media/Mongo.svg": "/digtalResume/static/media/Mongo.2c5a056ee9abf56973ee685904548bb8.svg",
+    "static/media/Docker.svg": "/digtalResume/static/media/Docker.e66b6dcb6f3f435cf76e5ad948b9bff7.svg",
+    "static/media/Python.svg": "/digtalResume/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "static/media/React.svg": "/digtalResume/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/Kafka.svg": "/digtalResume/static/media/Kafka.20c66d87a33f23a9ae9a4551676228e6.svg",
+    "static/media/Redis.svg": "/digtalResume/static/media/Redis.ca3be4d5c06fdc721e2c078c75dd59f6.svg",
+    "index.html": "/digtalResume/index.html",
+    "static/media/Java.svg": "/digtalResume/static/media/Java.980d8e77e92511acfefbf2dfdf4336e1.svg",
+    "static/media/C++.svg": "/digtalResume/static/media/C++.90772619f39a0a3b04f60ee5c827c002.svg",
+    "static/media/pre.svg": "/digtalResume/static/media/pre.257df63147c6664d712b.svg",
+    "static/media/Javascript.svg": "/digtalResume/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "static/media/Git.svg": "/digtalResume/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "main.3b319ee1.css.map": "/digtalResume/static/css/main.3b319ee1.css.map",
+    "main.4c7b23c9.js.map": "/digtalResume/static/js/main.4c7b23c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b319ee1.css",
+    "static/js/main.4c7b23c9.js"
+  ]
+}
